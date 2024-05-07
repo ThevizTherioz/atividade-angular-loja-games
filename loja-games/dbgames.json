@@ -1,0 +1,39 @@
+{
+  "PRODUTOS": [
+    {
+      "id": "1",
+      "produto": "Jogo 1",
+      "descricao": "Jogo de tiro",
+      "foto": "jogo1.png",
+      "preco": 40
+    },
+    {
+      "id": "2",
+      "produto": "Jogo 2",
+      "descricao": "Jogo de horror",
+      "foto": "jogo2.PNG",
+      "preco": 50
+    },
+    {
+      "id": "3",
+      "produto": "Jogo 3",
+      "descricao": "Jogo de aventura",
+      "foto": "jogo3.png",
+      "preco": 60
+    },
+    {
+        "id": "4",
+        "produto": "Jogo 4",
+        "descricao": "Jogo de guerra",
+        "foto": "jogo4.png",
+        "preco": 70
+    },
+    {
+        "id": "5",
+        "produto": "Jogo 5",
+        "descricao": "Jogo de futebol",
+        "foto": "jogo5.png",
+        "preco": 80
+    }
+  ]
+}
